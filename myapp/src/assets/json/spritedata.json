@@ -1,0 +1,12 @@
+{
+  "dog":{
+      "framerate": 15,
+      "image": [
+        "assets/img/rocket/.png" 
+      ],
+      "frames": {"regX": 0, "height": 400, "count": 17, "regY": 0, "width": 400},
+      "animations": {
+        "start": [0, 17, "start", 1] ,      
+      }
+  }
+}
